@@ -1,1 +1,3 @@
 *.pyc
+polls/*.pyc
+.idea/
